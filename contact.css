@@ -1,0 +1,38 @@
+body{
+    background-image: url(pen.webp);
+    background-repeat: no-repeat;
+    background-size: 2000px 1400px;
+    text-align: center;
+}
+form{
+    border: solid 1px white hidden;
+    width: 500px;
+    padding-left: 10px;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+label{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+input{
+    height: 26px;
+    width: 350px;
+    border-radius: 10px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: white;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+}
+button:hover{
+    background-color: burlywood;
+}
